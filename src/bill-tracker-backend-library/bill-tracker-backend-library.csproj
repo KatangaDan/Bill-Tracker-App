@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <RootNamespace>bill_tracker_backend</RootNamespace>
+    </PropertyGroup>
+    
+
+    <ItemGroup>
+      <Folder Include="BusinessLogic\" />
+      <Folder Include="Models\" />
+    </ItemGroup>
+
+</Project>
+
